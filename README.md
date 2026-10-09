@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://joy-spark-discover.lovable.app">
+    <img src="https://image.thum.io/get/width/1200/crop/675/noanimate/https://joy-spark-discover.lovable.app" alt="My intro page - click to visit" width="100%"/>
+  </a>
+</p>
 
-<!--
-**spamagent2500-tech/spamagent2500-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, welcome to my GitHub!</h1>
+<h3 align="center">Before you explore my code, meet me first</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://joy-spark-discover.lovable.app">
+    <img src="https://img.shields.io/badge/START_HERE-Visit_my_intro_page-ff4f8b?style=for-the-badge" alt="Visit my intro page"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><a href="https://joy-spark-discover.lovable.app">joy-spark-discover.lovable.app</a></p>
