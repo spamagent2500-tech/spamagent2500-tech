@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://joy-spark-discover.lovable.app">
-    <img src="https://image.thum.io/get/width/1200/crop/675/noanimate/https://joy-spark-discover.lovable.app" alt="My intro page - click to visit" width="100%"/>
+    <img src="https://raw.githubusercontent.com/spamagent2500-tech/spamagent2500-tech/main/banner.png" alt="Alina Malik - Cybersecurity Student | CEH Candidate - click to visit my intro page" width="100%"/>
   </a>
 </p>
 
